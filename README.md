@@ -31,11 +31,9 @@
 
 ## 💡 Let’s Connect!
 
-<!--
-[LinkedIn](#) • [Portfolio/Website](#) • [Email](#)
-Add your social or contact links here!
--->
-
+📩 **km_90@outlook.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/krishnamoorthy-s-060a923a)**  
+🌐 **Portfolio:** [krishnamoorthy-s.github.io](https://krishnamoorthy-s.github.io)
 ---
 
 <!--
